@@ -1,6 +1,6 @@
 // JSON data from data-minifed
 
-import config from './data/data-minifed.json' with { type: 'json' };
+import config from './data/data-minified.json' with { type: 'json' };
 
 
 document.addEventListener('DOMContentLoaded', function() {
